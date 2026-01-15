@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+
+    <!-- Auth Screen -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in_subtitle">Sign in to track your journeys</string>
+    <string name="sign_up_subtitle">Start tracking your adventures</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Dashboard Screen -->
+    <string name="track_your_journeys">Track your journeys</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="more_options">More options</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="recent_locations">Recent Locations</string>
+    <string name="records_count">%d records</string>
+    <string name="welcome_back_comma">Welcome back,</string>
+
+    <!-- Tracking Control -->
+    <string name="location_tracking">Location Tracking</string>
+    <string name="tracking_active">Active - Updates every 5 min</string>
+    <string name="tracking_disabled">Disabled</string>
+
+    <!-- Sync Status -->
+    <string name="sync_status">Sync Status</string>
+    <string name="locations_pending">%d locations pending</string>
+    <string name="all_synced">All synced</string>
+    <string name="syncing_data">Syncing data…</string>
+    <string name="synced_locations">Synced %d locations</string>
+    <string name="sync">Sync</string>
+
+    <!-- Location Item -->
+    <string name="synced">Synced</string>
+    <string name="pending">Pending</string>
+
+    <!-- Empty State -->
+    <string name="no_locations_recorded">No locations recorded yet</string>
+    <string name="enable_tracking_hint">Enable tracking to start your journey</string>
+
+    <!-- Delete Account Dialog -->
+    <string name="delete_account_title">Delete Account</string>
+    <string name="delete_account_confirm">Are you sure you want to delete your account?</string>
+    <string name="delete_account_warning">This action cannot be undone. All your data including location history will be permanently deleted.</string>
+    <string name="deleting_account">Deleting account…</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Permission Screen -->
+    <string name="location_permission">Location Permission</string>
+    <string name="required_for_tracking">Required for tracking</string>
+    <string name="why_we_need_this">Why we need this</string>
+    <string name="permission_explanation">This app needs location permissions to track your journeys. Your location will be recorded every 5 minutes and synced securely to the cloud.</string>
+    <string name="features">Features</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="privacy_note">Your location data is encrypted and stored securely. You can pause or stop tracking at any time from the dashboard.</string>
+
+    <!-- Feature Items -->
+    <string name="background_tracking">Background Tracking</string>
+    <string name="background_tracking_desc">Continuous location updates even when app is minimized</string>
+    <string name="offline_storage">Offline Storage</string>
+    <string name="offline_storage_desc">Saves locations locally when offline</string>
+    <string name="auto_sync">Auto Sync</string>
+    <string name="auto_sync_desc">Automatically syncs data when connection is available</string>
+    <string name="battery_optimized">Battery Optimized</string>
+    <string name="battery_optimized_desc">Smart intervals to minimize battery drain</string>
+</resources>

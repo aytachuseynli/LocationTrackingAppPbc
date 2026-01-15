@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Blue Palette -->
+    <color name="blue_10">#FF001F33</color>
+    <color name="blue_20">#FF003355</color>
+    <color name="blue_30">#FF004A77</color>
+    <color name="blue_40">#FF00639B</color>
+    <color name="blue_50">#FF007DC1</color>
+    <color name="blue_60">#FF2196F3</color>
+    <color name="blue_70">#FF64B5F6</color>
+    <color name="blue_80">#FF90CAF9</color>
+    <color name="blue_90">#FFBBDEFB</color>
+    <color name="blue_95">#FFE3F2FD</color>
+    <color name="blue_99">#FFF5FAFF</color>
+
+    <!-- Secondary Slate Blue -->
+    <color name="slate_blue_40">#FF3D6B7D</color>
+    <color name="slate_blue_90">#FFCEE3F0</color>
+
+    <!-- Tertiary Teal -->
+    <color name="teal_40">#FF006869</color>
+    <color name="teal_90">#FFAAEBEE</color>
+
+    <!-- Neutral -->
+    <color name="neutral_10">#FF1A1C1E</color>
+    <color name="neutral_90">#FFE2E4E6</color>
+    <color name="neutral_99">#FFFBFCFE</color>
+
+    <!-- Semantic Colors -->
+    <color name="success_60">#FF2BA84A</color>
+    <color name="success_90">#FFA8F5B7</color>
+    <color name="error_40">#FFBA1A1A</color>
+    <color name="error_90">#FFFFDAD6</color>
+    <color name="warning_60">#FFB38600</color>
+    <color name="warning_90">#FFFFDF8E</color>
+
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Legacy Colors (for compatibility) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
