@@ -11,6 +11,18 @@ An Android application for tracking and syncing location data with Firebase. Bui
 - Background location tracking that persists across reboots
 - Modern UI with Jetpack Compose
 
+## 🖼 Screenshots
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/66df69d8-a01d-4a27-ba1d-749b918c3c6b" width="19%" alt="App Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/f57633b7-21e5-49cb-8c1e-8705f7154980" width="19%" alt="App Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/332dae4d-7142-404d-a898-92974a1829fe" width="19%" alt="App Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/903374d0-b8f7-4e85-bb42-534abc12c4cf" width="19%" alt="App Screenshot 4" />
+  <img src="https://github.com/user-attachments/assets/3edf4308-5ac3-4cbc-b169-22c26080e487" width="19%" alt="App Screenshot 5" />
+</div>
+
+
+
 ## Tech Stack
 
 - Kotlin
