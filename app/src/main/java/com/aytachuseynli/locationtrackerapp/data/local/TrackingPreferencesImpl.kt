@@ -7,6 +7,7 @@ import com.aytachuseynli.locationtrackerapp.util.Constants
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 import javax.inject.Singleton
+import androidx.core.content.edit
 
 @Singleton
 class TrackingPreferencesImpl @Inject constructor(
@@ -18,11 +19,11 @@ class TrackingPreferencesImpl @Inject constructor(
 
     override var isTrackingEnabled: Boolean
         get() = prefs.getBoolean(Constants.PREF_TRACKING_ENABLED, false)
-        set(value) = prefs.edit().putBoolean(Constants.PREF_TRACKING_ENABLED, value).apply()
+        set(value) = prefs.edit { putBoolean(Constants.PREF_TRACKING_ENABLED, value) }
 
     override var userId: String?
         get() = prefs.getString(Constants.PREF_USER_ID, null)
-        set(value) = prefs.edit().putString(Constants.PREF_USER_ID, value).apply()
+        set(value) = prefs.edit { putString(Constants.PREF_USER_ID, value) }
 
-    override fun clear() = prefs.edit().clear().apply()
+    override fun clear() = prefs.edit { clear() }
 }
