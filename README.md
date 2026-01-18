@@ -39,8 +39,8 @@ An Android application for tracking and syncing location data with Firebase. Bui
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LocationTrackerAppPbc.git
-cd LocationTrackerAppPbc
+git clone https://github.com/YOUR_USERNAME/LocationTrackerApp.git
+cd LocationTrackerApp
 ```
 
 ### 2. Firebase Setup
